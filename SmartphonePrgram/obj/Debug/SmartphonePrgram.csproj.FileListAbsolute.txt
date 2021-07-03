@@ -1,0 +1,7 @@
+c:\users\srivatsa.mc\source\repos\SmartphonePrgram\SmartphonePrgram\bin\Debug\SmartphonePrgram.exe.config
+c:\users\srivatsa.mc\source\repos\SmartphonePrgram\SmartphonePrgram\bin\Debug\SmartphonePrgram.exe
+c:\users\srivatsa.mc\source\repos\SmartphonePrgram\SmartphonePrgram\bin\Debug\SmartphonePrgram.pdb
+c:\users\srivatsa.mc\source\repos\SmartphonePrgram\SmartphonePrgram\obj\Debug\SmartphonePrgram.csprojResolveAssemblyReference.cache
+c:\users\srivatsa.mc\source\repos\SmartphonePrgram\SmartphonePrgram\obj\Debug\SmartphonePrgram.csproj.CoreCompileInputs.cache
+c:\users\srivatsa.mc\source\repos\SmartphonePrgram\SmartphonePrgram\obj\Debug\SmartphonePrgram.exe
+c:\users\srivatsa.mc\source\repos\SmartphonePrgram\SmartphonePrgram\obj\Debug\SmartphonePrgram.pdb
